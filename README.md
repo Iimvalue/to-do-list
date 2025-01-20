@@ -8,8 +8,8 @@ practice project.
 This project uses 3000 port.
 
 ### Paths 
-Complete project path: http://localhost:5000/CleanCode
-Incomplete project path: http://localhost:5000
+Complete project path: http://localhost:3000/CleanCode
+Incomplete project path: http://localhost:3000
 
 
 ### What is App.js and CleanCode.js
@@ -24,7 +24,7 @@ There is no a database, it uses a mock data.
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
